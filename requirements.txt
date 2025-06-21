@@ -45,7 +45,7 @@ mdurl==0.1.2
 pygments==2.19.1
 
 # 其他 langchain 依赖
-orjson==3.9.15
+ujson==3.9.15
 frozenlist==1.4.1
 multidict==6.0.5
 blinker==1.7.0
